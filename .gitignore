@@ -1,1 +1,5 @@
 esp_ml_env/
+libros/
+imagenes/
+.vscode/
+.ipynb_checkpoints/
