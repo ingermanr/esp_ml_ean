@@ -1,0 +1,21 @@
+﻿Categoria,Contenido
+Fundamentos BPR definicion,"La reingeniería de procesos de negocio (BPR) es el rediseño radical de procesos 
+        empresariales para lograr mejoras dramáticas en medidas críticas de rendimiento como costos, 
+        calidad, servicio y velocidad."
+Fundamentos BPR principios clave,"Organización alrededor de resultados, no tareas, Identificación de todos los procesos en una organización y priorizarlos en orden de rediseño urgente, Integración de trabajo de procesamiento de información en el trabajo real que produce la información, Tratamiento de recursos geográficamente dispersos como si estuvieran centralizados, Vinculación de actividades paralelas en lugar de integrar sus resultados, Colocación del punto de decisión donde se realiza el trabajo"
+Fundamentos BPR beneficios,"Reducción de costos operativos, Mejora en la calidad del servicio al cliente, Incremento en la velocidad de los procesos, Mayor precisión en la ejecución de tareas, Mejor utilización de recursos, Estandarización de procesos"
+Automatizacion Procesos definicion,"La automatización de procesos utiliza tecnología para ejecutar tareas recurrentes 
+        o procesos de negocio con intervención humana mínima. Incluye RPA (Robotic Process Automation), 
+        BPA (Business Process Automation) e IA/ML para optimización."
+Automatizacion Procesos tecnologias clave,"RPA (Robotic Process Automation), BPA (Business Process Automation), Workflow Automation, Intelligent Document Processing, Process Mining, AI/ML en automatización, Low-Code/No-Code Platforms"
+Automatizacion Procesos casos uso,"Procesamiento automático de facturas, Onboarding de empleados, Gestión de reclamaciones, Reconciliación financiera, Gestión de inventario, Atención al cliente automatizada, Mantenimiento predictivo"
+Implementacion fases,"Análisis y mapeo de procesos actuales, Identificación de oportunidades de mejora, Diseño de nuevos procesos, Selección de herramientas tecnológicas, Implementación piloto, Escalamiento y despliegue completo, Monitoreo y optimización continua"
+Implementacion mejores practicas,"Comenzar con procesos simples y de alto impacto, Involucrar a los stakeholders desde el inicio, Establecer KPIs claros, Proporcionar capacitación adecuada, Documentar exhaustivamente, Mantener un enfoque ágil, Asegurar el soporte de la dirección"
+Implementacion tendencias actuales,"Hyperautomation, Process Mining con IA, Digital Twins de procesos, Automatización cognitiva, Edge Computing en automatización industrial, Blockchain en procesos empresariales, ESG y automatización sostenible"
+Impacto Industrial beneficios cuantitativos reduccion costos,20-30% en promedio
+Impacto Industrial beneficios cuantitativos mejora productividad,40-60% en tareas automatizadas
+Impacto Industrial beneficios cuantitativos reduccion errores,80-100% en procesos estandarizados
+Impacto Industrial beneficios cuantitativos tiempo proceso,50-70% de reducción en tiempo de ciclo
+Impacto Industrial beneficios cuantitativos roi promedio,30-200% en primer año
+Impacto Industrial sectores beneficiados,"Manufactura, Servicios financieros, Salud, Retail, Logística, Telecomunicaciones, Energía"
+Impacto Industrial kpis seguimiento,"Tiempo de ciclo del proceso, Tasa de error, Costo por transacción, Productividad por empleado, Satisfacción del cliente, Tiempo de respuesta, ROI de automatización"
