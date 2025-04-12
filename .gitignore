@@ -1,6 +1,156 @@
-esp_ml_env/
-libros/
-imagenes/
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+.virtualenv
+.conda/
+anaconda/
+miniconda/
+*.requirements.txt.lock
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+Untitled*.ipynb
+
+# Archivos de caché y configuración IDE
+.idea/
 .vscode/
-.ipynb_checkpoints/
-nlp_env/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+.ropeproject
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.pytest_cache/
+.coverage.*
+coverage.xml
+*.cover
+
+# Archivos de datos
+
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+*.h5
+*.hdf5
+*.xls
+
+*.pkl
+*.pickle
+*.joblib
+*.parquet
+*.feather
+*.ftr
+*.json
+*.yaml
+*.tar.gz
+*.zip
+*.7z
+*.rar
+datasets/
+data/raw/
+data/processed/
+data/interim/
+data/external/
+# Descomenta las líneas de arriba si quieres excluir todos los datos
+# Es buena práctica excluir datos raw pero incluir datos procesados si son pequeños
+
+# Archivos de logs
+logs/
+*.log
+log.txt
+results/
+
+# Archivos de modelos entrenados
+models/
+*.model
+*.pt
+*.pth
+*.h5
+*.pb
+*.onnx
+*.tflite
+*.mlmodel
+checkpoints/
+wandb/
+mlruns/
+.neptune/
+runs/
+lightning_logs/
+
+# Archivos específicos de R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Archivos específicos de Spark
+metastore_db/
+spark-warehouse/
+derby.log
+
+# Archivos de configuración con secretos
+config.ini
+settings.json
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets.yaml
+credentials.*
+*_key.json
+**/auth/*
+
+# Archivos específicos de sistemas de CI/CD
+.jenkins/
+.gitlab-ci.yml
+.github/
+.circleci/
+
+# Docker
+.docker/
+Dockerfile
+docker-compose.yml
+.dockerignore
